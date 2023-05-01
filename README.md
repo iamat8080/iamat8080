@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working Website panel with react and express as backend and python on client side to remote command my tools like a RAT<br>🤝 I’m looking for help with getting Datascience Jobs<br>🌱 I’m currently learning fullstack and golang<br>💬 Ask me about reversing
+🔭 I’m currently working Website panel with react, express and appwrite as front & backend and python on client side to remote command my tools like a RAT<br>🤝 I’m looking for help with getting Datascience Jobs<br>🌱 I’m currently learning fullstack and golang<br>💬 Ask me about reversing
 
 
 ## 🌐 Socials:
